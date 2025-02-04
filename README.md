@@ -79,4 +79,6 @@ Simulate a console connection to a switch using Packet Tracer and understand and
 
 ![image](https://github.com/user-attachments/assets/9f291883-854c-4d2f-a880-468f043906bb)
 
+*Ref 17: Go to the command prompt from PC and enter "ssh -l admin 192.168.1.5 then enter the password "cisco123" and the command prompt to access the switch from the PC is available*
 
+![image](https://github.com/user-attachments/assets/a5f0eb49-368d-4f7c-be2c-c0a398de4170)
